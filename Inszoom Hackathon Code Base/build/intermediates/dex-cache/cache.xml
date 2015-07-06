@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-2f36203617929190da308fa1324380fe3a759b9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-4fee81fd348dfb07999f934738106a9b4d952389.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-e6fb6b6b7d23684218382b7095673491b9008fae.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-2cfe8673a79f815a6e2028fc3c98170358459095.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-3d94c18c777722c0be77a4605762e5f38a19105b.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-cc472f4928d54032d91a7068e088da36c97c2d54.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-6c3c44e12bba5e0d4219ea17eeb55b7894d29023.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-3fc2f5aded19b155b4be456a5f77551612208ba4.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-404d672ee5aeef46aa744974020c0164da565fb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-38cb9b43cd4e5eaa4aee9a995df3c85da5119eba.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-40f28bfafb95d1c0b8c4f9ed9b21dce6d1e61722.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-7a36bee778b34b5a875e2c2b0581765a6fe79d28.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-5a6a724cf1f1fd5824f1ecdb9f66a17166d5d6f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-f6af033320d5efd263da4b9048688f623b3c3b0a.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-4204c5baf78e7775e57215280fcbb405c1e91cf6.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-b3f78a529df46efd48f0b5b3f35a5f8e72dd110c.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-d9436415195ff36dd520e67a5410df7fb6025302.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-9ea4c7e70c97afbd80a8ab73366cc619db8b9d18.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-ebcb3b1d3d3a56bbdd07ed68d3bae961ed30cd5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-c059240b9af78fae9e2f4d179c06f9ed9ddf141a.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-8d1da6eeecdcfa7af2454096a4ec5d6d8b440ff0.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-82d2d3ce563ef014768933e15cced7ae6b4503c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-c2e4032f0f0bba644e589e42cc71b9a6823c4761.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-3375f13b674ae733e5ad57a5a4cf3e31c53a2cea.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-d16eeed4e890bbc217741893966ad3b0ea7a61ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\insind763\Desktop\MyFirstAttempt\MyFirstAttempt\app\build\intermediates\pre-dexed\debug\classes-41742bd4ed2fb72b4d97a67999c656173c52ad21.jar" />
+    </item>
+
+</items>
